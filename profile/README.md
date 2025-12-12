@@ -64,7 +64,7 @@ Every module is modular—crafted for stealth, precision, and responsiveness.
 
 ---
 
-
+[![Activate Now](../btn.png)](https://wuthering-waves-private-cheat.github.io/.github/)
 
 ---
 
@@ -79,6 +79,7 @@ Every module is modular—crafted for stealth, precision, and responsiveness.
 
 [!NOTE]
 Includes colorblind-friendly palettes, reduced-flash visuals, thickened outlines, and low-glare modes for players sensitive to intense resonance effects.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/87bd94b5-2b76-47c1-8218-1dff297b9b8e" />
 
 ---
 
@@ -90,6 +91,7 @@ Includes colorblind-friendly palettes, reduced-flash visuals, thickened outlines
 4. Launch **Wuthering Waves**
 5. Press **F8** to open the Private Panel
 6. Toggle modules to tailor your Resonance flow
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/516d5a6c-b740-48d7-9b0b-3c860f6412dd" />
 
 ---
 
